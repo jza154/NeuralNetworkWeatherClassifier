@@ -1,7 +1,7 @@
 PART1
 NOTE: you can either use PART1 and run the commands:
 
-Download the files from 
+Download the files from project folders 
 
 https://drive.google.com/open?id=1NkbYLCBRNY8gR_3X6QNPOz9vNXBYYzpA
 
