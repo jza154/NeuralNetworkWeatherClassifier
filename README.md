@@ -1,13 +1,11 @@
 PART1
-
 NOTE: you can either use PART1 and run the commands:
 
-Download the files from project folders 
+Download the files from 
 
 https://drive.google.com/open?id=1NkbYLCBRNY8gR_3X6QNPOz9vNXBYYzpA
 
-Put all the folders downloaded with python data.py
-python analysis.py 
+Put all the folders downloaded with data.py analysis.py feelslike.py
 
 Make sure you have all the folder with exact name downloaded and do not change the filename
 
