@@ -1,8 +1,15 @@
 PART1
 NOTE: you can either use PART1 and run the commands:
 
+Make sure you have all the folder with exact name downloaded
+
+This is for weather label:
+
 python data.py
 python analysis.py
+
+
+This is for feels like temperature
 python feelslike.py
 
 
