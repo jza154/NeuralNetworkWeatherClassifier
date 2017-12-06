@@ -7,7 +7,7 @@ Download the files from project folders
 https://drive.google.com/open?id=1NkbYLCBRNY8gR_3X6QNPOz9vNXBYYzpA
 
 Put all the folders downloaded with python data.py
-python analysis.py download
+python analysis.py 
 
 Make sure you have all the folder with exact name downloaded and do not change the filename
 
